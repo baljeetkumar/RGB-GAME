@@ -1,0 +1,21 @@
+.square{
+    width: 30%;
+    float: left;
+    
+    background: blue;
+    padding-bottom: 30%;
+    margin: 1.66%;
+}
+span,h1{
+    color: red;
+}
+h2{
+    background: white;
+}
+body{
+    background: #123545;
+}
+#container{
+   margin: 0 auto;
+   max-width: 600px;
+}
